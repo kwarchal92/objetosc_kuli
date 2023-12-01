@@ -19,7 +19,7 @@ public class ObjetoscKuli {
         objetosc = 4 * Math.PI * r * r * r/3;
 
         System.out.print("objetosc kuli o promieniu r = ");
-        System.out.printf("%2.2f.", r );
+        System.out.printf("%4.4f.", r );
         System.out.print("wynosi: ");
         System.out.printf("%2.2f.", objetosc);
     }
